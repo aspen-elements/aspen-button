@@ -1,7 +1,7 @@
 {
   "description": "This component represents a button with a tooltip.",
   "name": "@aspen-elements/aspen-button",
-  "version": "",
+  "version": "0.5.0",
   "resolutions": {
     "inherits": "2.0.3",
     "samsam": "1.1.3",

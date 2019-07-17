@@ -1,4 +1,4 @@
-# \<aspen-button\>
+# <aspen-button\>
 
 This component represents a button with a tooltip.
 
